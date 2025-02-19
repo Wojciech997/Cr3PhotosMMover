@@ -1,0 +1,14 @@
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\bin\Debug\net8.0\PicturesMover.exe
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\bin\Debug\net8.0\PicturesMover.deps.json
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\bin\Debug\net8.0\PicturesMover.runtimeconfig.json
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\bin\Debug\net8.0\PicturesMover.dll
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\bin\Debug\net8.0\PicturesMover.pdb
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\obj\Debug\net8.0\PicturesMover.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\obj\Debug\net8.0\PicturesMover.AssemblyInfoInputs.cache
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\obj\Debug\net8.0\PicturesMover.AssemblyInfo.cs
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\obj\Debug\net8.0\PicturesMover.csproj.CoreCompileInputs.cache
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\obj\Debug\net8.0\PicturesMover.dll
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\obj\Debug\net8.0\refint\PicturesMover.dll
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\obj\Debug\net8.0\PicturesMover.pdb
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\obj\Debug\net8.0\PicturesMover.genruntimeconfig.cache
+D:\Projekty\jpgcr3mover\PicturesMover\PicturesMover\obj\Debug\net8.0\ref\PicturesMover.dll
